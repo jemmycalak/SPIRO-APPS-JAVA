@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+    <color name="orange">#e55300</color>
+    <color name="gray">#dedede</color>
+    <color name="darkGray">#484848</color>
+    <color name="whiteGray">#f7f7f7</color>
+    <color name="orangeWhite">#f8d699</color>
+    <color name="blueDark">#045867</color>
+    <color name="transparentOrange">#00000000</color>
+    <color name="hololight">#757575</color>
+    <color name="bb_tabletRightBorderDark">#505050</color>
+    <color name="hint_foreground_holo_light">#808080</color>
+    <color name="safemodebackground">#80ffffff</color>
+    <color name="accent_translucent">#80FFEB3B</color>
+    <color name="accent">#FFEB3B</color>
+    <color name="red">#C2185B</color>
+    <color name="colorBlueAccent">#a0bdd1</color>
+    <color name="blueAccent">#2c83db</color>
+    <color name="whiteSoft">#c6f0ff</color>
+</resources>

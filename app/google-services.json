@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750566792110",
+    "firebase_url": "https://spiro-1536930757411.firebaseio.com",
+    "project_id": "spiro-1536930757411",
+    "storage_bucket": "spiro-1536930757411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750566792110:android:7a23af3bb4694479",
+        "android_client_info": {
+          "package_name": "com.calak.jemmy.spiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750566792110-m73811v27pt3bv6i72eq7c8dtjv397su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calak.jemmy.spiro",
+            "certificate_hash": "f46a5260a6ff83017cc591db52c2d6092f60f73a"
+          }
+        },
+        {
+          "client_id": "750566792110-3gdsuoc9dfdkv9e87o48lcnqsio85c3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RPTIljZTt5NMci15tDWxwupqGvxFe0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750566792110-3gdsuoc9dfdkv9e87o48lcnqsio85c3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

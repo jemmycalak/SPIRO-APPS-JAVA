@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SPIRO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Rp 0</string>
+    <string name="APIKEYMAPS">AIzaSyBHsNx3_N4E27lNNgqJvEBCJU2RuUf4Y78</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_map__search">Search here..</string>
+</resources>

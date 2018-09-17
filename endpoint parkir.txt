@@ -1,0 +1,64 @@
+ENDPOINT PARKIR
+
+
+apikey	:MTFhM2FmMzBhZGI1ODAwNTk1ODUxODVlNjRjOGM4ZjczOTg3MTI1NDpmZWM0MzczOGE4OTQ0YjY1OTZmMTY3NmI3NzZmYzVkZGM3NmE3YThh
+
+REGISTER
+url		:  http://parkir.genspira.id/api/account/register
+Method	: POST
+Header	: apikey
+Body	: {
+	"nama_lengkap":"Zky Cloudz",
+	"email":"risky@wallezz.com",
+	"password":"12345678",
+	"c_password":"12345678",
+	"tgl_lahir":"2018-02-01",
+	"jenis_kelamin":"Laki-laki",
+	"phone":"08121934416"
+}
+
+LOGIN
+
+url		: http://parkir.genspira.id/api/account/login
+Method	: POST
+header 	: apikey
+Body	:{
+
+	"email":"dandifermeko@gmail.com",
+	"password":"12345678"
+	
+}
+
+PROFILE
+	url	: http://parkir.genspira.id/api/account/profile
+Method	: GET
+header 	: apikey + Authorization
+
+Lokasi PARKIR
+
+url	: http://parkir.genspira.id/api/lokasi/list
+Method	: GET
+header 	: apikey + Authorization
+
+Lokasi PARKIR BY ID
+
+url	: http://parkir.genspira.id/api/lokasi/list/{id}
+Method	: GET
+header 	: apikey + Authorization
+
+
+TARIF PARKIR 
+
+url	: http://parkir.genspira.id/api/reservasi/price
+Method	: GET
+header 	: apikey
+--------------------------------------------------------
+Booking
+url	:http://parkir.genspira.id/api/reservasi/booking
+method	: POST
+Header	: Apikey + Authorization
+Body	:{
+"nomor_plat":"BA1234JM",
+"id_lokasi":1,
+"id_tarif":"2"
+}
